@@ -1,7 +1,5 @@
 # Emissor e receptor UDP com verificação de integridade
 
-## Descrição
-
 Este projeto demonstra uma solução básica para comunicação de dados entre um emissor e um receptor utilizando o protocolo UDP. A comunicação inclui a verificação de integridade dos dados transmitidos por meio de bits de paridade e simula condições de transmissão reais com a possibilidade de introdução de erros.
 
 
